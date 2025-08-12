@@ -1,0 +1,28 @@
+https://github.com/CS5520Summer2025Feinberg/project-group9
+Cuan Fraser
+fraser.cu@northeastern.edu
+cuanfraser
+Spending screen (graphs, layout, importing data)
+Transactions screen (layout, recycler view, importing data, adding transactions)
+Budget screen (layout, graph, importing data)
+Menu bar
+83 commits
+
+Brijesh Veer Bahadur Giri
+giri.b@northeastern.edu
+brijesh-giri-neu
+Profile screen
+Database schema
+Firebase Repositories
+Backend Service
+Login and Signup screen
+Firebase Authentication
+Firebase Project setup
+100 commits
+
+Test login:
+Email:      mischiefhat@gmail.com
+Password:   mischief
+
+Video Link:
+https://drive.google.com/file/d/15FwCk7KDnAWmTCU8mRNAfC7pyG1Oz0eZ/view?usp=sharing

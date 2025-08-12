@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_spending"
+        android:icon="@drawable/spending"
+        android:title="@string/spending" />
+
+    <item
+        android:id="@+id/navigation_budget"
+        android:icon="@drawable/budget"
+        android:title="@string/budget" />
+
+    <item
+        android:id="@+id/navigation_transactions"
+        android:icon="@drawable/transactions"
+        android:title="@string/Transactions" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/profile"
+        android:title="@string/profile" />
+</menu>
