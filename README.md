@@ -5,7 +5,7 @@
 ## Releases
 You can download and test the latest APK builds from here:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/CS5520Summer2025Feinberg/project-group9/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/brijesh-giri-neu/budget-manager/releases/latest)
 
 
 ## Project Progress
