@@ -2,6 +2,9 @@
 
 **Budget Your Life** is an intuitive, Firebase-backed Android app designed to help users manage their personal finances.
 
+## Releases
+You can download and test the latest APK builds from the [Releases section](https://github.com/CS5520Summer2025Feinberg/project-group9/releases).
+
 ## Project Progress
 You can view feature progress and task tracking live at our [Project Board](https://github.com/orgs/CS5520Summer2025Feinberg/projects/1).
 
